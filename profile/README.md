@@ -10,4 +10,6 @@ but primarily as a catalyst to get teams creating their on Patterns!
 [Contribute Docs](https://validatedpatterns.io/contribute)
 
 ### GitHub Repository
-To fork our existing patterns to start your own, visit [Our GitHub](https://github.com/validatedpatterns)
+To view/clone/fork or any other git things visit our pattern repos
+- [Official Validated Patterns](https://github.com/orgs/validatedpatterns/repositories)
+- [Sandbox Patterns](https://github.com/orgs/validatedpatterns-sandbox/repositories)
